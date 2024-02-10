@@ -1,6 +1,8 @@
 *.gguf
 
 .ipynb_checkpoints/
+docs/
+images/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
